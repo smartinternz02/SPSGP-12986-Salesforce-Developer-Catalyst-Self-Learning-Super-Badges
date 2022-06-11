@@ -6,16 +6,16 @@ This repository contain Apex Superbadge code.
 
 # Actions to Earn This Superbadge ->
 
-Automate record creation using Apex triggers
-Synchronize Salesforce data with an external system using asynchronous REST callouts
-Schedule synchronization using Apex code
-Test automation logic to confirm Apex trigger side effects
-Test integration logic using callout mocks
-Test scheduling logic to confirm action gets queued
+i.  Automate record creation using Apex triggers
+ii. Synchronize Salesforce data with an external system using asynchronous REST callouts
+iii.Schedule synchronization using Apex code
+iv. Test automation logic to confirm Apex trigger side effects
+v.  Test integration logic using callout mocks
+vi. Test scheduling logic to confirm action gets queued
 
 # Concepts Tested in This Superbadge ->
 
-# Apex Triggers
-# Asynchronous Apex
-# Apex Integration
-# Apex Testing
+. Apex Triggers
+. Asynchronous Apex
+. Apex Integration
+. Apex Testing
