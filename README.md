@@ -4,7 +4,7 @@ Apex Specialist is one of the superbadges of Salesforce trailhead(A New Approach
 This repository contain Apex Superbadge code.
 
 
-Actions to Earn This Superbadge ->
+# Actions to Earn This Superbadge ->
 
 Automate record creation using Apex triggers
 Synchronize Salesforce data with an external system using asynchronous REST callouts
@@ -13,9 +13,9 @@ Test automation logic to confirm Apex trigger side effects
 Test integration logic using callout mocks
 Test scheduling logic to confirm action gets queued
 
-Concepts Tested in This Superbadge ->
+# Concepts Tested in This Superbadge ->
 
-Apex Triggers
-Asynchronous Apex
-Apex Integration
-Apex Testing
+# Apex Triggers
+# Asynchronous Apex
+# Apex Integration
+# Apex Testing
